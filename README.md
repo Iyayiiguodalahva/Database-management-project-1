@@ -20,6 +20,7 @@ In order to meet these objectives we came up withe the research question "How do
 
 DATA ANALYSIS
 Next step was testing the hypothesis.
+
 •Test 1 (t-test average box office earnings during holiday vs. non-holiday periods) 
 Hypothesis 1 (H1): Movies released during the holiday season (e.g., December: 7,531,973) exceeded the average earnings of films released during the non-peak season (6,797,050) H1: The evidence suggests that films released during the holiday season generate the highest box office earnings.
 ![image](https://github.com/user-attachments/assets/aacf68ee-3758-4715-ad2c-94392677ed5a):
